@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: d6fb73592462c224ba0cdf1630f1932d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7439755216648943794
+    second: Gunna&Joe_0
+  - first:
+      213: -7435779801445842750
+    second: Gunna&Joe_1
+  - first:
+      213: -3693939996667910315
+    second: Gunna&Joe_2
+  - first:
+      213: -7929346000544182983
+    second: Gunna&Joe_3
+  - first:
+      213: -2745467643235272705
+    second: Gunna&Joe_4
+  - first:
+      213: -3274608337031293201
+    second: Gunna&Joe_5
+  - first:
+      213: -3244282380159042180
+    second: Gunna&Joe_6
+  - first:
+      213: -4651548513189866995
+    second: Gunna&Joe_7
+  - first:
+      213: 9114999402801217878
+    second: Gunna&Joe_8
+  - first:
+      213: -2843210823243335778
+    second: Gunna&Joe_9
+  - first:
+      213: -7484332842462923605
+    second: Gunna&Joe_10
+  - first:
+      213: 4292471389046743113
+    second: Gunna&Joe_11
+  - first:
+      213: 2831266699206561233
+    second: Gunna&Joe_12
+  - first:
+      213: 1423234403674838258
+    second: Gunna&Joe_13
+  - first:
+      213: -7583266809007481949
+    second: Gunna&Joe_14
+  - first:
+      213: 6470980556772137652
+    second: Gunna&Joe_15
+  - first:
+      213: -7806491952347669417
+    second: Gunna&Joe_16
+  - first:
+      213: 2900787418523032019
+    second: Gunna&Joe_17
+  - first:
+      213: -8031841220971353155
+    second: Gunna&Joe_18
+  - first:
+      213: -8997149735709380451
+    second: Gunna&Joe_19
+  - first:
+      213: -2971878924662982070
+    second: Gunna&Joe_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gunna&Joe_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 315
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b83838b3f15f3760800000000000000
+      internalID: 7439755216648943794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 315
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0cbc2caadcec890800000000000000
+      internalID: -7435779801445842750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 316
+        width: 103
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5576005f42d7cbcc0800000000000000
+      internalID: -3693939996667910315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 316
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d4660f2dd45f190800000000000000
+      internalID: -7929346000544182983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 316
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7f1ae79b326e9d0800000000000000
+      internalID: -2745467643235272705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 316
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe697bc21114e82d0800000000000000
+      internalID: -3274608337031293201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_6
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 316
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dbf8b3d5ef9f2d0800000000000000
+      internalID: -3244282380159042180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_7
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 316
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0252dfa541627fb0800000000000000
+      internalID: -4651548513189866995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 316
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6514ddbd9abfe7e70800000000000000
+      internalID: 9114999402801217878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 315
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97f80bf1d2ea88d0800000000000000
+      internalID: -2843210823243335778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 316
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba43538feee422890800000000000000
+      internalID: -7484332842462923605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_11
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 315
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940a8a06cfbe19b30800000000000000
+      internalID: 4292471389046743113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_12
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 316
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd899eef0eaa4720800000000000000
+      internalID: 2831266699206561233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 302
+        width: 877
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f45727462850c310800000000000000
+      internalID: 1423234403674838258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 159
+        width: 465
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab591cd303d2c690800000000000000
+      internalID: -7583266809007481949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 175
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4badcda188a8dc950800000000000000
+      internalID: 6470980556772137652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 176
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c1f5e0ee4c9a390800000000000000
+      internalID: -7806491952347669417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_17
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 176
+        width: 128
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9dcf1c9caa14820800000000000000
+      internalID: 2900787418523032019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_18
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 175
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbba9abc6fa298090800000000000000
+      internalID: -8031841220971353155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_19
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 175
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90fa0cfbf3b32380800000000000000
+      internalID: -8997149735709380451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunna&Joe_20
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 176
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a3efb1dd3c1c6d0800000000000000
+      internalID: -2971878924662982070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gunna&Joe_0: 7439755216648943794
+      Gunna&Joe_1: -7435779801445842750
+      Gunna&Joe_10: -7484332842462923605
+      Gunna&Joe_11: 4292471389046743113
+      Gunna&Joe_12: 2831266699206561233
+      Gunna&Joe_13: 1423234403674838258
+      Gunna&Joe_14: -7583266809007481949
+      Gunna&Joe_15: 6470980556772137652
+      Gunna&Joe_16: -7806491952347669417
+      Gunna&Joe_17: 2900787418523032019
+      Gunna&Joe_18: -8031841220971353155
+      Gunna&Joe_19: -8997149735709380451
+      Gunna&Joe_2: -3693939996667910315
+      Gunna&Joe_20: -2971878924662982070
+      Gunna&Joe_3: -7929346000544182983
+      Gunna&Joe_4: -2745467643235272705
+      Gunna&Joe_5: -3274608337031293201
+      Gunna&Joe_6: -3244282380159042180
+      Gunna&Joe_7: -4651548513189866995
+      Gunna&Joe_8: 9114999402801217878
+      Gunna&Joe_9: -2843210823243335778
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
