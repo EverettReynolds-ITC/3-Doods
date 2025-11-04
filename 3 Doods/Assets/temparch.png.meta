@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e1362f273e55ba845bfb41242df7b81d
+guid: 6aa2a2c31c8799149aa39f35c32f69d1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7332737609198105016
-    second: goofyarcher_0
+      213: -4533022929839164036
+    second: temparch_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: goofyarcher_0
+      name: temparch_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 5
-        width: 259
-        height: 339
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 400
+        y: 198
+        width: 42
+        height: 49
+      alignment: 9
+      pivot: {x: 0.6573755, y: 0.026503582}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84e8994bef1ec3a90800000000000000
-      internalID: -7332737609198105016
+      spriteID: c757c3c89a77711c0800000000000000
+      internalID: -4533022929839164036
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f0fd1fa777d25f74195e5139122d2d2c
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      goofyarcher_0: -7332737609198105016
+      temparch_0: -4533022929839164036
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
