@@ -9,7 +9,6 @@ public class PlayerAimAndShoot : MonoBehaviour
     private GameObject bulletInst;
     private Vector2 worldPosition;
     private Vector2 direction;
-    private const int stopperx = 0;
     private const int stoppery = -5;
     private void Update()
     {
@@ -19,7 +18,7 @@ public class PlayerAimAndShoot : MonoBehaviour
     private void HandleGunRotation()
     {
         worldPosition = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
-        if (worldPosition.x > stopperx &&  worldPosition.y > stoppery)
+        if (worldPosition.y > stoppery)
         {
             direction = (worldPosition - (Vector2)gun.transform.position).normalized;
             gun.transform.right = direction;
