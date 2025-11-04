@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/knightlevel.unity
     guid: c030b1b6a73e8ad4697f11ba6d202719
   - enabled: 1
-    path: Assets/BirdLevel.unity
+    path: Assets/Scenes/BirdLevel.unity
     guid: 4d5d4e639a3e2b743ae3b5b8e7b4e382
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
