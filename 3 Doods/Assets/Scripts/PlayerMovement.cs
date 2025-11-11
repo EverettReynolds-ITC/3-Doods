@@ -46,11 +46,17 @@ public class SideScrollPlayerController : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
+        if (other.gameObject.CompareTag("Ground"))
+        {
             isGrounded = true;
+        }
     }
 
     void OnTriggerExit2D(Collider2D other)
     {
+        if (other.gameObject.CompareTag("Ground"))
+        {
             isGrounded = false;
+        }
     }
 }
