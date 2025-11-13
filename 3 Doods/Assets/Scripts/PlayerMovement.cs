@@ -12,10 +12,13 @@ public class SideScrollPlayerController : MonoBehaviour
 
     public bool shouldJump = false;
 
+    private Animator animator;
+
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -23,8 +26,16 @@ public class SideScrollPlayerController : MonoBehaviour
     {
         // get horizontal input
         float horizontalInput = Input.GetAxis("Horizontal");
+        if (horizontalInput != 0f)
+        {
+            animator.SetBool("isRunning", true);
+        }
+        else
+        {
+            animator.SetBool("isRunning", false);
+        }
 
-        transform.Translate(new Vector3(horizontalInput, 0, 0) * moveSpeed * Time.deltaTime);
+            transform.Translate(new Vector3(horizontalInput, 0, 0) * moveSpeed * Time.deltaTime);
 
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
@@ -49,6 +60,7 @@ public class SideScrollPlayerController : MonoBehaviour
         if (other.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
+            animator.SetBool("offGround", false);
         }
     }
 
@@ -57,6 +69,7 @@ public class SideScrollPlayerController : MonoBehaviour
         if (other.gameObject.CompareTag("Ground"))
         {
             isGrounded = false;
+            animator.SetBool("offGround", true);
         }
     }
 }
