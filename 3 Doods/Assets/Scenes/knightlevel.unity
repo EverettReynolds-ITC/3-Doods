@@ -33341,7 +33341,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.154, y: -0.504, z: 0}
-  m_LocalScale: {x: 3.02, y: 3.02, z: 1.0066667}
+  m_LocalScale: {x: 0.35, y: 0.35, z: 0.11666667}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 546016129}
@@ -33381,7 +33381,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.032797784, y: 0.02117604}
+  m_Offset: {x: -0.008693457, y: 0.025437355}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -33391,7 +33391,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.38403547, y: 0.757648}
+  m_Size: {x: 2.9823904, y: 5.458416}
   m_EdgeRadius: 0
 --- !u!61 &536728080
 BoxCollider2D:
@@ -33427,7 +33427,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.032797784, y: 0.007832438}
+  m_Offset: {x: 0.01851654, y: -2.9082675}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -33437,7 +33437,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.38403565, y: 0.7643352}
+  m_Size: {x: 2.8083534, y: 0.5525677}
   m_EdgeRadius: 0
 --- !u!82 &536728081
 AudioSource:
@@ -33460,7 +33460,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 0.6663523
+  MinDistance: 0.78025126
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
@@ -33586,8 +33586,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 7.74, y: 7.74, z: 7.74}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 536728078}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
