@@ -14,6 +14,8 @@ public class SideScrollPlayerController : MonoBehaviour
 
     private Animator animator;
 
+    [SerializeField] private GameObject killbox;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -29,6 +31,14 @@ public class SideScrollPlayerController : MonoBehaviour
         if (horizontalInput != 0f)
         {
             animator.SetBool("isRunning", true);
+            if (horizontalInput > 0f)
+            {
+                transform.localScale = new Vector3(.35f,.35f, .1f);
+            }
+            else
+            {
+                transform.localScale = new Vector3(-.35f, .35f, .1f);
+            }
         }
         else
         {
@@ -40,6 +50,11 @@ public class SideScrollPlayerController : MonoBehaviour
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             shouldJump = true;
+        }
+        if (Input.GetKeyDown(KeyCode.RightShift))
+        {
+            killbox.SetActive(true);
+            animator.SetTrigger("slash");
         }
     }
 

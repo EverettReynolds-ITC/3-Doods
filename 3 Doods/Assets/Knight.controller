@@ -162,11 +162,11 @@ AnimatorStateMachine:
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 830, y: 260, z: 0}
-  m_EntryPosition: {x: -80, y: 150, z: 0}
+  m_AnyStatePosition: {x: 770, y: 320, z: 0}
+  m_EntryPosition: {x: 510, y: -30, z: 0}
   m_ExitPosition: {x: 860, y: 80, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: -4308851595454992628}
+  m_DefaultState: {fileID: 4549579522101165708}
 --- !u!1101 &-2636781975188595077
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -195,6 +195,18 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
+--- !u!114 &-464229098553282431
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45aa1530420d7114aa18a3229916b436, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1102 &-193786430695580737
 AnimatorState:
   serializedVersion: 6
@@ -271,7 +283,10 @@ AnimatorStateTransition:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 
-  m_Conditions: []
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: slash
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 2275649556164772207}
   m_Solo: 0
@@ -322,13 +337,14 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: slashKnight
-  m_Speed: 1
+  m_Speed: 0.2
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -2636781975188595077}
   - {fileID: -8198696990982638928}
   - {fileID: 7743897811731423566}
-  m_StateMachineBehaviours: []
+  m_StateMachineBehaviours:
+  - {fileID: -464229098553282431}
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
   m_WriteDefaultValues: 1
@@ -457,7 +473,10 @@ AnimatorStateTransition:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 
-  m_Conditions: []
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: slash
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 2275649556164772207}
   m_Solo: 0
