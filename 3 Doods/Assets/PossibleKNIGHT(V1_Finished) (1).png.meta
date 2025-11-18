@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 04f66cec1447d3b4aa935e5f8f2150c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2773860526348419465
+    second: PossibleKNIGHT(V1_Finished) (1)_0
+  - first:
+      213: -6890098248222098336
+    second: PossibleKNIGHT(V1_Finished) (1)_1
+  - first:
+      213: -1449657649715751620
+    second: PossibleKNIGHT(V1_Finished) (1)_2
+  - first:
+      213: 429676326719637944
+    second: PossibleKNIGHT(V1_Finished) (1)_3
+  - first:
+      213: 1437339260613206048
+    second: PossibleKNIGHT(V1_Finished) (1)_4
+  - first:
+      213: -1056965052437133354
+    second: PossibleKNIGHT(V1_Finished) (1)_5
+  - first:
+      213: -5488333982196170611
+    second: PossibleKNIGHT(V1_Finished) (1)_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PossibleKNIGHT(V1_Finished) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3093
+        width: 296
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981c971c37bbe7620800000000000000
+      internalID: 2773860526348419465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PossibleKNIGHT(V1_Finished) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 3093
+        width: 296
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c3e2706247160a0800000000000000
+      internalID: -6890098248222098336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PossibleKNIGHT(V1_Finished) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 3093
+        width: 296
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35d3c65c08c1ebe0800000000000000
+      internalID: -1449657649715751620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PossibleKNIGHT(V1_Finished) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1749
+        width: 296
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9c486b75486f500800000000000000
+      internalID: 429676326719637944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PossibleKNIGHT(V1_Finished) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1749
+        width: 296
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020a292317472f310800000000000000
+      internalID: 1437339260613206048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PossibleKNIGHT(V1_Finished) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 1749
+        width: 296
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d78b7582e7e451f0800000000000000
+      internalID: -1056965052437133354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PossibleKNIGHT(V1_Finished) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 405
+        width: 296
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d800e76525585d3b0800000000000000
+      internalID: -5488333982196170611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PossibleKNIGHT(V1_Finished) (1)_0: 2773860526348419465
+      PossibleKNIGHT(V1_Finished) (1)_1: -6890098248222098336
+      PossibleKNIGHT(V1_Finished) (1)_2: -1449657649715751620
+      PossibleKNIGHT(V1_Finished) (1)_3: 429676326719637944
+      PossibleKNIGHT(V1_Finished) (1)_4: 1437339260613206048
+      PossibleKNIGHT(V1_Finished) (1)_5: -1056965052437133354
+      PossibleKNIGHT(V1_Finished) (1)_6: -5488333982196170611
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
