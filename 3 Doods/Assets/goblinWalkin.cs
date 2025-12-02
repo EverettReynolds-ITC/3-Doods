@@ -12,6 +12,6 @@ public class goblinWalkin : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb.linearVelocityX = -3f;
+        rb.linearVelocityX = -4f;
     }
 }

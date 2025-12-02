@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 26df9381417e7c949a76adae76d33512
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8624634313710760412
+    second: RED_ARCHER_SHEET_0
+  - first:
+      213: 2056632999187706906
+    second: RED_ARCHER_SHEET_1
+  - first:
+      213: -1016214968522134849
+    second: RED_ARCHER_SHEET_2
+  - first:
+      213: 1419851175782993517
+    second: RED_ARCHER_SHEET_3
+  - first:
+      213: 699510329635751422
+    second: RED_ARCHER_SHEET_4
+  - first:
+      213: -7493384088346823251
+    second: RED_ARCHER_SHEET_5
+  - first:
+      213: 916123938447618038
+    second: RED_ARCHER_SHEET_6
+  - first:
+      213: 4386078122912722374
+    second: RED_ARCHER_SHEET_7
+  - first:
+      213: 3256074996754100975
+    second: RED_ARCHER_SHEET_8
+  - first:
+      213: 8685211303428304949
+    second: RED_ARCHER_SHEET_9
+  - first:
+      213: -7785711568780300322
+    second: RED_ARCHER_SHEET_10
+  - first:
+      213: -8631853704334560466
+    second: RED_ARCHER_SHEET_11
+  - first:
+      213: -1472589911573931154
+    second: RED_ARCHER_SHEET_12
+  - first:
+      213: -7467665033019041242
+    second: RED_ARCHER_SHEET_13
+  - first:
+      213: -5069951432321990183
+    second: RED_ARCHER_SHEET_14
+  - first:
+      213: 4879706247517178139
+    second: RED_ARCHER_SHEET_15
+  - first:
+      213: 7758768794929403901
+    second: RED_ARCHER_SHEET_16
+  - first:
+      213: -3978744345744580483
+    second: RED_ARCHER_SHEET_17
+  - first:
+      213: -3949594940040236929
+    second: RED_ARCHER_SHEET_18
+  - first:
+      213: -3655892215166776740
+    second: RED_ARCHER_SHEET_19
+  - first:
+      213: -8315810799554383998
+    second: RED_ARCHER_SHEET_20
+  - first:
+      213: 4029878868749400455
+    second: RED_ARCHER_SHEET_21
+  - first:
+      213: 4681628511600123996
+    second: RED_ARCHER_SHEET_22
+  - first:
+      213: 691107621546843808
+    second: RED_ARCHER_SHEET_23
+  - first:
+      213: -8008639115095023603
+    second: RED_ARCHER_SHEET_24
+  - first:
+      213: -8140455749283662871
+    second: RED_ARCHER_SHEET_25
+  - first:
+      213: 7303290561220612611
+    second: RED_ARCHER_SHEET_26
+  - first:
+      213: 5555102236535845180
+    second: RED_ARCHER_SHEET_27
+  - first:
+      213: -7151303143503376775
+    second: RED_ARCHER_SHEET_28
+  - first:
+      213: -5012952091946198429
+    second: RED_ARCHER_SHEET_29
+  - first:
+      213: 1219679007594217159
+    second: RED_ARCHER_SHEET_30
+  - first:
+      213: 7961661399210722898
+    second: RED_ARCHER_SHEET_31
+  - first:
+      213: 3722746230844154220
+    second: RED_ARCHER_SHEET_32
+  - first:
+      213: -6364717334646922720
+    second: RED_ARCHER_SHEET_33
+  - first:
+      213: 4181065541567233247
+    second: RED_ARCHER_SHEET_34
+  - first:
+      213: -7364987411411866187
+    second: RED_ARCHER_SHEET_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3583
+        width: 450
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1ff5a863bd0b770800000000000000
+      internalID: 8624634313710760412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_1
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 3583
+        width: 450
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14fde5f0d0aa8c10800000000000000
+      internalID: 2056632999187706906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_2
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 3583
+        width: 450
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaadc9cedda5e1f0800000000000000
+      internalID: -1016214968522134849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_3
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 3583
+        width: 450
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e47762f1354b310800000000000000
+      internalID: 1419851175782993517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_4
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 3583
+        width: 450
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5c7aa40f825b900800000000000000
+      internalID: 699510329635751422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2687
+        width: 450
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5f5809fd6220890800000000000000
+      internalID: -7493384088346823251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_6
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2687
+        width: 660
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffe6614ed9b6bc00800000000000000
+      internalID: 916123938447618038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_7
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 2687
+        width: 702
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd235970da7edc30800000000000000
+      internalID: 4386078122912722374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_8
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 2687
+        width: 604
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe23f8745f6ef2d20800000000000000
+      internalID: 3256074996754100975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_9
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 2687
+        width: 590
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5303d0c0aa1188870800000000000000
+      internalID: 8685211303428304949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_10
+      rect:
+        serializedVersion: 2
+        x: 4605
+        y: 2687
+        width: 576
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf6333249893f390800000000000000
+      internalID: -7785711568780300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_11
+      rect:
+        serializedVersion: 2
+        x: 5487
+        y: 2687
+        width: 562
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23bff71ace753880800000000000000
+      internalID: -8631853704334560466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_12
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 2687
+        width: 562
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bdfcc074f409be0800000000000000
+      internalID: -1472589911573931154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_13
+      rect:
+        serializedVersion: 2
+        x: 7307
+        y: 2687
+        width: 730
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a5b45c7368d5890800000000000000
+      internalID: -7467665033019041242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_14
+      rect:
+        serializedVersion: 2
+        x: 8203
+        y: 2687
+        width: 464
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d107f7b80ae3a9b0800000000000000
+      internalID: -5069951432321990183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_15
+      rect:
+        serializedVersion: 2
+        x: 8749
+        y: 3065
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1904837af238b340800000000000000
+      internalID: 4879706247517178139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_16
+      rect:
+        serializedVersion: 2
+        x: 8805
+        y: 3065
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7172c7c1facab60800000000000000
+      internalID: 7758768794929403901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_17
+      rect:
+        serializedVersion: 2
+        x: 8875
+        y: 3065
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70eccb0919a8c8c0800000000000000
+      internalID: -3978744345744580483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_18
+      rect:
+        serializedVersion: 2
+        x: 8931
+        y: 3065
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70b830f3583039c0800000000000000
+      internalID: -3949594940040236929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_19
+      rect:
+        serializedVersion: 2
+        x: 9099
+        y: 2687
+        width: 450
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a4ed96669a34dc0800000000000000
+      internalID: -3655892215166776740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1791
+        width: 450
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f2439032e489c80800000000000000
+      internalID: -8315810799554383998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_21
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1791
+        width: 450
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78939abda710de730800000000000000
+      internalID: 4029878868749400455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_22
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1791
+        width: 450
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c502444b35c78f040800000000000000
+      internalID: 4681628511600123996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_23
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 1791
+        width: 450
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae5ddb58be479900800000000000000
+      internalID: 691107621546843808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_24
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 1791
+        width: 450
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00667a08299bd090800000000000000
+      internalID: -8008639115095023603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_25
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 1791
+        width: 450
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3392240aa470f80800000000000000
+      internalID: -8140455749283662871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_26
+      rect:
+        serializedVersion: 2
+        x: 5515
+        y: 1791
+        width: 450
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302940922108a5560800000000000000
+      internalID: 7303290561220612611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_27
+      rect:
+        serializedVersion: 2
+        x: 6411
+        y: 1805
+        width: 450
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3172bb4d00b71d40800000000000000
+      internalID: 5555102236535845180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 895
+        width: 450
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ec8522ea771cc90800000000000000
+      internalID: -7151303143503376775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_29
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 895
+        width: 450
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ade73d1aa6e6ab0800000000000000
+      internalID: -5012952091946198429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_30
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 895
+        width: 450
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce77a3689b2de010800000000000000
+      internalID: 1219679007594217159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_31
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 1245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25605e12cd08d7e60800000000000000
+      internalID: 7961661399210722898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_32
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 895
+        width: 464
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61e36619f9d9a330800000000000000
+      internalID: 3722746230844154220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_33
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 895
+        width: 716
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022699c4e4bfba7a0800000000000000
+      internalID: -6364717334646922720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_34
+      rect:
+        serializedVersion: 2
+        x: 4577
+        y: 895
+        width: 716
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcbdb335f0260a30800000000000000
+      internalID: 4181065541567233247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_ARCHER_SHEET_35
+      rect:
+        serializedVersion: 2
+        x: 5473
+        y: 895
+        width: 716
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd629f78fe4ac990800000000000000
+      internalID: -7364987411411866187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RED_ARCHER_SHEET_0: 8624634313710760412
+      RED_ARCHER_SHEET_1: 2056632999187706906
+      RED_ARCHER_SHEET_10: -7785711568780300322
+      RED_ARCHER_SHEET_11: -8631853704334560466
+      RED_ARCHER_SHEET_12: -1472589911573931154
+      RED_ARCHER_SHEET_13: -7467665033019041242
+      RED_ARCHER_SHEET_14: -5069951432321990183
+      RED_ARCHER_SHEET_15: 4879706247517178139
+      RED_ARCHER_SHEET_16: 7758768794929403901
+      RED_ARCHER_SHEET_17: -3978744345744580483
+      RED_ARCHER_SHEET_18: -3949594940040236929
+      RED_ARCHER_SHEET_19: -3655892215166776740
+      RED_ARCHER_SHEET_2: -1016214968522134849
+      RED_ARCHER_SHEET_20: -8315810799554383998
+      RED_ARCHER_SHEET_21: 4029878868749400455
+      RED_ARCHER_SHEET_22: 4681628511600123996
+      RED_ARCHER_SHEET_23: 691107621546843808
+      RED_ARCHER_SHEET_24: -8008639115095023603
+      RED_ARCHER_SHEET_25: -8140455749283662871
+      RED_ARCHER_SHEET_26: 7303290561220612611
+      RED_ARCHER_SHEET_27: 5555102236535845180
+      RED_ARCHER_SHEET_28: -7151303143503376775
+      RED_ARCHER_SHEET_29: -5012952091946198429
+      RED_ARCHER_SHEET_3: 1419851175782993517
+      RED_ARCHER_SHEET_30: 1219679007594217159
+      RED_ARCHER_SHEET_31: 7961661399210722898
+      RED_ARCHER_SHEET_32: 3722746230844154220
+      RED_ARCHER_SHEET_33: -6364717334646922720
+      RED_ARCHER_SHEET_34: 4181065541567233247
+      RED_ARCHER_SHEET_35: -7364987411411866187
+      RED_ARCHER_SHEET_4: 699510329635751422
+      RED_ARCHER_SHEET_5: -7493384088346823251
+      RED_ARCHER_SHEET_6: 916123938447618038
+      RED_ARCHER_SHEET_7: 4386078122912722374
+      RED_ARCHER_SHEET_8: 3256074996754100975
+      RED_ARCHER_SHEET_9: 8685211303428304949
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
