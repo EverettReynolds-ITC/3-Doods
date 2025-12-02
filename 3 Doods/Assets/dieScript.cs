@@ -13,6 +13,11 @@ public class dieScript : MonoBehaviour
         if (other.gameObject.CompareTag("hitbox"))
         {
             anim.SetTrigger("die");
+            Invoke("kill", 3f);
         }
+    }
+    private void kill()
+    {
+        Destroy(gameObject);
     }
 }
