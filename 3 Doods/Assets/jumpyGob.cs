@@ -7,7 +7,7 @@ public class jumpyGob : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if (!collision.gameObject.CompareTag("Player"))
+        if (!collision.gameObject.CompareTag("Player") && !collision.gameObject.CompareTag("Enemy"))
         {
             rb.linearVelocityY = 8f;
         }
