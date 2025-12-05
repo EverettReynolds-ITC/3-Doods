@@ -29,12 +29,12 @@ public class TITLESCREENPLAYBUTTON : MonoBehaviour
     }
     public void level1()
     {
-        SceneManager.LoadScene("ArcherLevel");
+        SceneManager.LoadScene("KnightLevel2.0");
     }
 
     public void level2()
     {
-        SceneManager.LoadScene("KnightLevel2.0");
+        SceneManager.LoadScene("ArcherLevel");
     }
 
     public void level3()
