@@ -4,7 +4,7 @@ public class SideScrollPlayerController : MonoBehaviour
 {
     public float moveSpeed = 10.0f;
 
-    public float jumpForce = 500.0f;
+    public float jumpForce = 8.0f;
 
     Rigidbody2D rb;
 
@@ -14,6 +14,10 @@ public class SideScrollPlayerController : MonoBehaviour
 
     private Animator animator;
 
+    private Vector3 originalScale;
+
+    private float horizontalInput;
+
     [SerializeField] private GameObject killbox;
 
     // Start is called before the first frame update
@@ -21,54 +25,50 @@ public class SideScrollPlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        originalScale = transform.localScale;
     }
 
     // Update is called once per frame
     void Update()
+{
+    horizontalInput = Input.GetAxis("Horizontal");
+
+    if (horizontalInput != 0f)
     {
-        // get horizontal input
-        float horizontalInput = Input.GetAxis("Horizontal");
-        if (horizontalInput != 0f)
-        {
-            animator.SetBool("isRunning", true);
-            if (horizontalInput > 0f)
-            {
-                transform.localScale = new Vector3(.35f,.35f, .1f);
-            }
-            else
-            {
-                transform.localScale = new Vector3(-.35f, .35f, .1f);
-            }
-        }
+        animator.SetBool("isRunning", true);
+
+        // flip fix
+        if (horizontalInput > 0f)
+            transform.localScale = new Vector3(originalScale.x, originalScale.y, originalScale.z);
         else
-        {
-            animator.SetBool("isRunning", false);
-        }
-
-            transform.Translate(new Vector3(horizontalInput, 0, 0) * moveSpeed * Time.deltaTime);
-
-        if (Input.GetButtonDown("Jump") && isGrounded)
-        {
-            shouldJump = true;
-        }
-        if (Input.GetKeyDown(KeyCode.RightShift))
-        {
-            killbox.SetActive(true);
-            animator.SetTrigger("slash");
-        }
+            transform.localScale = new Vector3(-originalScale.x, originalScale.y, originalScale.z);
     }
+    else
+    {
+        animator.SetBool("isRunning", false);
+    }
+
+    if (Input.GetButtonDown("Jump") && isGrounded)
+        shouldJump = true;
+
+    if (Input.GetKeyDown(KeyCode.RightShift))
+    {
+        killbox.SetActive(true);
+        animator.SetTrigger("slash");
+    }
+}
 
     void FixedUpdate()
-    {
-        if (shouldJump == true)
-        {
-            // quickly set back to false so we don't double-jump
-            shouldJump = false;
+{
+    // horizontal movement using physics
+    rb.linearVelocity = new Vector2(horizontalInput * moveSpeed, rb.linearVelocity.y);
 
-            //push the rigidbody UP
-            rb.AddForce(transform.up * jumpForce);
-        }
+    if (shouldJump)
+    {
+        shouldJump = false;
+        rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
     }
+}
 
     void OnTriggerEnter2D(Collider2D other)
     {

@@ -34,7 +34,7 @@ public class TITLESCREENPLAYBUTTON : MonoBehaviour
 
     public void level2()
     {
-        SceneManager.LoadScene("KnightLevel");
+        SceneManager.LoadScene("KnightLevel2.0");
     }
 
     public void level3()
