@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Title Screen.unity
     guid: 66aa08f05b18ad84ebb211e99931ecc6
   - enabled: 1
-    path: Assets/Scenes/knightlevel.unity
+    path: Assets/Scenes/knightlevelproto.unity
     guid: c030b1b6a73e8ad4697f11ba6d202719
   - enabled: 1
     path: Assets/Scenes/BirdLevel.unity
@@ -18,8 +18,11 @@ EditorBuildSettings:
     path: Assets/Scenes/ArcherLevel.unity
     guid: e86dfd8bed54b3347a6b756251873f4c
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/LevelSelect.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/KnightLevel.unity
+    guid: ef77b1ce92d24474a9d2fc7929863d87
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

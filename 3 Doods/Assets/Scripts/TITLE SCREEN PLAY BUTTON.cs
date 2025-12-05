@@ -6,9 +6,12 @@ public class TITLESCREENPLAYBUTTON : MonoBehaviour
 {
     public GameObject creditsYo;
     public GameObject titleScreen;
+
+    public GameObject levelSelectYo;
     public void startGame()
     {
-        SceneManager.LoadScene("knightlevel");
+        titleScreen.SetActive(false);
+        levelSelectYo.SetActive(true);
     }
     public void credits()
     {
@@ -23,5 +26,25 @@ public class TITLESCREENPLAYBUTTON : MonoBehaviour
     public void quit()
     {
         Application.Quit();
+    }
+    public void level1()
+    {
+        SceneManager.LoadScene("ArcherLevel");
+    }
+
+    public void level2()
+    {
+        SceneManager.LoadScene("KnightLevel");
+    }
+
+    public void level3()
+    {
+        SceneManager.LoadScene("BirdLevel");
+    }
+
+    public void selectToMain()
+    {
+        levelSelectYo.SetActive(false);
+        titleScreen.SetActive(true);
     }
 }
