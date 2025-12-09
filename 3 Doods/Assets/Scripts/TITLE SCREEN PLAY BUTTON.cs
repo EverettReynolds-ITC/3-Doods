@@ -1,3 +1,4 @@
+using System.IO;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -8,10 +9,13 @@ public class TITLESCREENPLAYBUTTON : MonoBehaviour
     public GameObject titleScreen;
 
     public GameObject levelSelectYo;
+    public levelScript levelScript;
+    
     public void startGame()
     {
         titleScreen.SetActive(false);
         levelSelectYo.SetActive(true);
+        levelScript.checkLVLS();
     }
     public void credits()
     {
@@ -25,6 +29,7 @@ public class TITLESCREENPLAYBUTTON : MonoBehaviour
     }
     public void quit()
     {
+        File.WriteAllText("CompletedLevels.txt", "");
         Application.Quit();
     }
     public void level1()

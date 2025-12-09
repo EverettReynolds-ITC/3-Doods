@@ -7,6 +7,9 @@ TagManager:
   - Enemy
   - Ground
   - hitbox
+  - coin
+  - arrowSpawn
+  - Healthbar
   layers:
   - Default
   - TransparentFX

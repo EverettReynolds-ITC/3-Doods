@@ -117,9 +117,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 11520
-        height: 10240
+        y: 7680
+        width: 3840
+        height: 2560
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,11 +134,253 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Full_Level_Select_1
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 7680
+        width: 3840
+        height: 2560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9c7d21b2670d64ba9b317f4856b338
+      internalID: -449132352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full_Level_Select_2
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 7680
+        width: 3840
+        height: 2560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b565aad0052109428ae818a08064aed
+      internalID: -1136808121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full_Level_Select_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 3840
+        height: 2560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e1ed38acb35d24eb70d7f2416cbc0a
+      internalID: 1243962934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full_Level_Select_4
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5120
+        width: 3840
+        height: 2560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5adec1063abdea43bf6b8f188cae008
+      internalID: 313427375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full_Level_Select_5
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5120
+        width: 3840
+        height: 2560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da9b4ebe38468b4d86954a569a44938
+      internalID: 830630970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full_Level_Select_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 3840
+        height: 2560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822edbb66411093479835a1317fc867c
+      internalID: 29722652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full_Level_Select_7
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2560
+        width: 3840
+        height: 2560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87077b0242fe5b543b5d02eae9a6bc32
+      internalID: 1211899309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full_Level_Select_8
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2560
+        width: 3840
+        height: 2560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ba7af07b6204d4d99311432124b65f
+      internalID: 242898206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full_Level_Select_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3840
+        height: 2560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b453e3e76b8893458ee4ff7b723126a
+      internalID: -969685509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full_Level_Select_10
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 3840
+        height: 2560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb24015e9f55a14396c3d5ab49e7de5
+      internalID: -1710601052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full_Level_Select_11
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 3840
+        height: 2560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b78a1ead75168545aabc7fd51e1774b
+      internalID: 1634392713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2458449daef72dc4e9524b63753ddab6
     internalID: 0
     vertices: []
     indices: 
@@ -149,6 +391,17 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Full_Level_Select_0: 8812203312817620862
+      Full_Level_Select_1: -449132352
+      Full_Level_Select_10: -1710601052
+      Full_Level_Select_11: 1634392713
+      Full_Level_Select_2: -1136808121
+      Full_Level_Select_3: 1243962934
+      Full_Level_Select_4: 313427375
+      Full_Level_Select_5: 830630970
+      Full_Level_Select_6: 29722652
+      Full_Level_Select_7: 1211899309
+      Full_Level_Select_8: 242898206
+      Full_Level_Select_9: -969685509
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
