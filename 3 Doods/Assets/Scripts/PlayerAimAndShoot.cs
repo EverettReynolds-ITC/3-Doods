@@ -1,6 +1,5 @@
 using NUnit.Framework;
 using System.Collections.Generic;
-using System.IO;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -19,8 +18,6 @@ public class PlayerAimAndShoot : MonoBehaviour
     [SerializeField] private GameObject arrow1, arrow2, arrow3, arrow4, arrow5, level1, level2, level3;
     private List<GameObject> arrows = new List<GameObject> { }, levels = new List<GameObject> { }, 
         level1Enemies = new List<GameObject> { };
-    private bool g1 = false, g2 = false;
-    private StreamWriter streamWriter;
     private void Start()
     {
         arrows.Add(arrow1);
@@ -64,15 +61,11 @@ public class PlayerAimAndShoot : MonoBehaviour
         
         if (eCount == 0)
         {
-            if (activeLevel == 1)
+            levels[activeLevel - 1].SetActive(false);
+            activeLevel++;
+            levels[activeLevel - 1].SetActive(true);
+            if (activeLevel == 2)
             {
-                levels[activeLevel - 1].SetActive(false);
-                activeLevel++;
-                levels[activeLevel - 1].SetActive(true);
-                if (aCount > 0)
-                {
-                    g1 = true;
-                }
                 aCount = 4;
                 eCount = 4;
                 for (int i = 0; i < aCount; i++)
@@ -80,33 +73,6 @@ public class PlayerAimAndShoot : MonoBehaviour
                     arrows[i].SetActive(true);
                 }
 
-            }
-            else if (activeLevel == 2)
-            {
-                levels[activeLevel - 1].SetActive(false);
-                activeLevel++;
-                levels[activeLevel - 1].SetActive(true);
-                if (aCount > 0)
-                {
-                    g2 = true;
-                }
-                aCount = 5;
-                eCount = 2;
-                for (int i = 0; i < aCount; i++)
-                {
-                    arrows[i].SetActive(true);
-                }
-            }
-            else
-            {
-                if(aCount > 0 && g1 && g2)
-                {
-                    streamWriter = File.AppendText("CompletedLevels.txt");
-                    streamWriter.WriteLine("lvl3G");
-                    streamWriter.Close();
-
-                }
-                
             }
         }
         else if (aCount == 0)

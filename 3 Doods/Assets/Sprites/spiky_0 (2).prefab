@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4155788306629127495}
   - component: {fileID: 3954636744239465806}
   - component: {fileID: 5761550317302565904}
+  - component: {fileID: 7568404248885576778}
   - component: {fileID: 6154731399872938600}
   m_Layer: 0
   m_Name: spiky_0 (2)
@@ -30,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 18.1, y: -3.71, z: 0}
-  m_LocalScale: {x: -1.67, y: -1.67, z: -1.67}
+  m_LocalScale: {x: -1.71, y: -1.71, z: -1.71}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -163,6 +164,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &7568404248885576778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6931547444201328567}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f559dad3b11e5c4ca3e4351098ccd3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &6154731399872938600
 MonoBehaviour:
   m_ObjectHideFlags: 0

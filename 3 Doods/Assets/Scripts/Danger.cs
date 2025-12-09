@@ -3,11 +3,6 @@ using UnityEngine.SceneManagement;
 
 public class EpicFail : MonoBehaviour
 {
-    public Player player;
-    private void Start()
-    {
-        player = GameObject.FindGameObjectWithTag("Healthbar").GetComponent<Player>();
-    }
     public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.tag == "Player") 
@@ -16,7 +11,10 @@ public class EpicFail : MonoBehaviour
             // write something to the Console just to make 
             // sure this function is being called
             Debug.Log("What are you doing");
-            player.TakeDamage();
+
+            // use SceneManager to load the CURRENT scene again (a reset)
+            // the LoadScene function just wants a NUMBER of the scene to load
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 
