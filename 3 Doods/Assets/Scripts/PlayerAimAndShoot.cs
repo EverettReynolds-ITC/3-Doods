@@ -18,6 +18,7 @@ public class PlayerAimAndShoot : MonoBehaviour
     [SerializeField] private GameObject arrow1, arrow2, arrow3, arrow4, arrow5, level1, level2, level3;
     private List<GameObject> arrows = new List<GameObject> { }, levels = new List<GameObject> { }, 
         level1Enemies = new List<GameObject> { };
+    private bool g1 = false, g2 = false, g3 = false;
     private void Start()
     {
         arrows.Add(arrow1);
@@ -73,6 +74,15 @@ public class PlayerAimAndShoot : MonoBehaviour
                     arrows[i].SetActive(true);
                 }
 
+            }
+            else
+            {
+                aCount = 5;
+                eCount = 6;
+                for (int i = 0; i < aCount; i++)
+                {
+                    arrows[i].SetActive(true);
+                }
             }
         }
         else if (aCount == 0)
