@@ -33,6 +33,10 @@ public class VictoryMenuFR : MonoBehaviour
         Time.timeScale = 1f;
         SceneManager.LoadScene(nextLevelName);
     }
+    public void reload()
+    {
+        SceneManager.GetActiveScene();
+    }
 
     public void LoadMainMenu()
     {
