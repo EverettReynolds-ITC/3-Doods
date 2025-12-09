@@ -1,0 +1,1794 @@
+fileFormatVersion: 2
+guid: 553a0a08ae284cf41bf9df9429c1f70a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8333427623712866751
+    second: Castle_With_The_Drawbrigde_0
+  - first:
+      213: 6690846367660417808
+    second: Castle_With_The_Drawbrigde_1
+  - first:
+      213: 5266787777489078118
+    second: Castle_With_The_Drawbrigde_2
+  - first:
+      213: -2701834333829173678
+    second: Castle_With_The_Drawbrigde_3
+  - first:
+      213: 7824550309261470292
+    second: Castle_With_The_Drawbrigde_4
+  - first:
+      213: 4083983305609865306
+    second: Castle_With_The_Drawbrigde_5
+  - first:
+      213: -2849091095376370720
+    second: Castle_With_The_Drawbrigde_6
+  - first:
+      213: -3545445690275833081
+    second: Castle_With_The_Drawbrigde_7
+  - first:
+      213: 6556874786368688236
+    second: Castle_With_The_Drawbrigde_8
+  - first:
+      213: -1570225225939137816
+    second: Castle_With_The_Drawbrigde_9
+  - first:
+      213: -9076620471900256813
+    second: Castle_With_The_Drawbrigde_10
+  - first:
+      213: 3287825811002355254
+    second: Castle_With_The_Drawbrigde_11
+  - first:
+      213: -4480567243777205130
+    second: Castle_With_The_Drawbrigde_12
+  - first:
+      213: -4986226005227050133
+    second: Castle_With_The_Drawbrigde_13
+  - first:
+      213: 6222980711576788392
+    second: Castle_With_The_Drawbrigde_14
+  - first:
+      213: 2714825828084004546
+    second: Castle_With_The_Drawbrigde_15
+  - first:
+      213: 949359536801966176
+    second: Castle_With_The_Drawbrigde_16
+  - first:
+      213: 90429047769842424
+    second: Castle_With_The_Drawbrigde_17
+  - first:
+      213: -7458094537974003031
+    second: Castle_With_The_Drawbrigde_18
+  - first:
+      213: 795983252166115164
+    second: Castle_With_The_Drawbrigde_19
+  - first:
+      213: 3869754275178765826
+    second: Castle_With_The_Drawbrigde_20
+  - first:
+      213: -3816339449057413278
+    second: Castle_With_The_Drawbrigde_21
+  - first:
+      213: 3444702510333333671
+    second: Castle_With_The_Drawbrigde_22
+  - first:
+      213: -77978892044736695
+    second: Castle_With_The_Drawbrigde_23
+  - first:
+      213: -7478053937865886888
+    second: Castle_With_The_Drawbrigde_24
+  - first:
+      213: 4994923858396508570
+    second: Castle_With_The_Drawbrigde_25
+  - first:
+      213: 3160077985127940702
+    second: Castle_With_The_Drawbrigde_26
+  - first:
+      213: 4488127057971068990
+    second: Castle_With_The_Drawbrigde_27
+  - first:
+      213: -3517055891538277570
+    second: Castle_With_The_Drawbrigde_28
+  - first:
+      213: -6613467923347589476
+    second: Castle_With_The_Drawbrigde_29
+  - first:
+      213: -3396048193239388084
+    second: Castle_With_The_Drawbrigde_30
+  - first:
+      213: 3699856498895333356
+    second: Castle_With_The_Drawbrigde_31
+  - first:
+      213: 1972254297518089637
+    second: Castle_With_The_Drawbrigde_32
+  - first:
+      213: -6494996277853729900
+    second: Castle_With_The_Drawbrigde_33
+  - first:
+      213: 5448681478469200891
+    second: Castle_With_The_Drawbrigde_34
+  - first:
+      213: -5543932902211250979
+    second: Castle_With_The_Drawbrigde_35
+  - first:
+      213: -5721718926085821677
+    second: Castle_With_The_Drawbrigde_36
+  - first:
+      213: 6382698211836219184
+    second: Castle_With_The_Drawbrigde_37
+  - first:
+      213: -7384111587831492264
+    second: Castle_With_The_Drawbrigde_38
+  - first:
+      213: 8981851216841452420
+    second: Castle_With_The_Drawbrigde_39
+  - first:
+      213: 2487718466741187711
+    second: Castle_With_The_Drawbrigde_40
+  - first:
+      213: 5211963878734831778
+    second: Castle_With_The_Drawbrigde_41
+  - first:
+      213: 5401573716758604495
+    second: Castle_With_The_Drawbrigde_42
+  - first:
+      213: -3991831719505477273
+    second: Castle_With_The_Drawbrigde_43
+  - first:
+      213: -7958106986106983221
+    second: Castle_With_The_Drawbrigde_44
+  - first:
+      213: 8170947155455636508
+    second: Castle_With_The_Drawbrigde_45
+  - first:
+      213: 7419292394716940159
+    second: Castle_With_The_Drawbrigde_46
+  - first:
+      213: -4679124566863262292
+    second: Castle_With_The_Drawbrigde_47
+  - first:
+      213: 4354800887519193934
+    second: Castle_With_The_Drawbrigde_48
+  - first:
+      213: 9034849454156291015
+    second: Castle_With_The_Drawbrigde_49
+  - first:
+      213: -9067747603693039883
+    second: Castle_With_The_Drawbrigde_50
+  - first:
+      213: -6565305000917616908
+    second: Castle_With_The_Drawbrigde_51
+  - first:
+      213: -1983936922057787567
+    second: Castle_With_The_Drawbrigde_52
+  - first:
+      213: -5215805471970184120
+    second: Castle_With_The_Drawbrigde_53
+  - first:
+      213: 6870675569824923848
+    second: Castle_With_The_Drawbrigde_54
+  - first:
+      213: 8503853336709850795
+    second: Castle_With_The_Drawbrigde_55
+  - first:
+      213: 2582169600531497913
+    second: Castle_With_The_Drawbrigde_56
+  - first:
+      213: -3267204964058244222
+    second: Castle_With_The_Drawbrigde_57
+  - first:
+      213: 940378473277617176
+    second: Castle_With_The_Drawbrigde_58
+  - first:
+      213: 7908167025165855925
+    second: Castle_With_The_Drawbrigde_59
+  - first:
+      213: 2363647661014863002
+    second: Castle_With_The_Drawbrigde_60
+  - first:
+      213: -5495430688422143372
+    second: Castle_With_The_Drawbrigde_61
+  - first:
+      213: -7769103406515884866
+    second: Castle_With_The_Drawbrigde_62
+  - first:
+      213: 2452246609696740075
+    second: Castle_With_The_Drawbrigde_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_0
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 6399
+        width: 162
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb145d8754846a370800000000000000
+      internalID: 8333427623712866751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_1
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 6399
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013ac1f5259aadc50800000000000000
+      internalID: 6690846367660417808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_2
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 6399
+        width: 162
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6670b983493671940800000000000000
+      internalID: 5266787777489078118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_3
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 6399
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e68220df7218ad0800000000000000
+      internalID: -2701834333829173678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_4
+      rect:
+        serializedVersion: 2
+        x: 4639
+        y: 6399
+        width: 162
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ae3becc03669c60800000000000000
+      internalID: 7824550309261470292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_5
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 6399
+        width: 521
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a586087bd293da830800000000000000
+      internalID: 4083983305609865306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_6
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 5759
+        width: 162
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3ec5f6ebef578d0800000000000000
+      internalID: -2849091095376370720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_7
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 5759
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b5ba4edeb0ccec0800000000000000
+      internalID: -3545445690275833081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_8
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 5759
+        width: 162
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60983ed0e2befa50800000000000000
+      internalID: 6556874786368688236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_9
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 5759
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea4a86f970753ae0800000000000000
+      internalID: -1570225225939137816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_10
+      rect:
+        serializedVersion: 2
+        x: 4639
+        y: 5759
+        width: 162
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5c85355cd590280800000000000000
+      internalID: -9076620471900256813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_11
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 5759
+        width: 521
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ee72cc724b0ad20800000000000000
+      internalID: 3287825811002355254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_12
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 5119
+        width: 162
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c9862b4d3d1d1c0800000000000000
+      internalID: -4480567243777205130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_13
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 5119
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b60accddd5dcab0800000000000000
+      internalID: -4986226005227050133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_14
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 5119
+        width: 162
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad54a58cf77c5650800000000000000
+      internalID: 6222980711576788392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_15
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 5119
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6b006f4bffca520800000000000000
+      internalID: 2714825828084004546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_16
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 5119
+        width: 182
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068e533087dcc2d00800000000000000
+      internalID: 949359536801966176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_17
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 5119
+        width: 521
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2c2b56db4414100800000000000000
+      internalID: 90429047769842424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_18
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 4479
+        width: 202
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa47ca48868f7890800000000000000
+      internalID: -7458094537974003031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_19
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 4479
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f7580fc86eb0b00800000000000000
+      internalID: 795983252166115164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_20
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 4479
+        width: 222
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e541ca20124b530800000000000000
+      internalID: 3869754275178765826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_21
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 4479
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2677f9cad73a90bc0800000000000000
+      internalID: -3816339449057413278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_22
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 4479
+        width: 262
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0905daeaa0ecf20800000000000000
+      internalID: 3444702510333333671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_23
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 4479
+        width: 521
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947e1bf5c96faeef0800000000000000
+      internalID: -77978892044736695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_24
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 3839
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853fa4e509d983890800000000000000
+      internalID: -7478053937865886888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_25
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 3839
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91f8d3f8c8815540800000000000000
+      internalID: 4994923858396508570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_26
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 3839
+        width: 282
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5245164f2adadb20800000000000000
+      internalID: 3160077985127940702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_27
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 3839
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e304f25b7c7094e30800000000000000
+      internalID: 4488127057971068990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_28
+      rect:
+        serializedVersion: 2
+        x: 4419
+        y: 3839
+        width: 322
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b8aa10d48e03fc0800000000000000
+      internalID: -3517055891538277570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_29
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 3839
+        width: 521
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c963d6f96fd3834a0800000000000000
+      internalID: -6613467923347589476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_30
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3199
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40fbd94920ded0d0800000000000000
+      internalID: -3396048193239388084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_31
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 3199
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7a39012e7885330800000000000000
+      internalID: 3699856498895333356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_32
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 3199
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5ad4a85dade5b10800000000000000
+      internalID: 1972254297518089637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_33
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 3199
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b4b091c432dd5a0800000000000000
+      internalID: -6494996277853729900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_34
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 3199
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb2862bfea9d9b40800000000000000
+      internalID: 5448681478469200891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_35
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 3199
+        width: 521
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd41911066eff03b0800000000000000
+      internalID: -5543932902211250979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_36
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2559
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b6602a3fe5890b0800000000000000
+      internalID: -5721718926085821677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_37
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2559
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fc409e436e39850800000000000000
+      internalID: 6382698211836219184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_38
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 2559
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851557132ad568990800000000000000
+      internalID: -7384111587831492264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_39
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 2559
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bae350812f5ac70800000000000000
+      internalID: 8981851216841452420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_40
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 2559
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74b947d3c6268220800000000000000
+      internalID: 2487718466741187711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_41
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 2559
+        width: 521
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a02826988d945840800000000000000
+      internalID: 5211963878734831778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_42
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1919
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaab773dae36fa40800000000000000
+      internalID: 5401573716758604495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_43
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1919
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7614db3633a2a98c0800000000000000
+      internalID: -3991831719505477273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_44
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 1919
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcce9882cdf1f8190800000000000000
+      internalID: -7958106986106983221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_45
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 1919
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14fb677529056170800000000000000
+      internalID: 8170947155455636508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_46
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 1919
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f774cd7bf1f96f660800000000000000
+      internalID: 7419292394716940159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_47
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 1919
+        width: 521
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadcf4c5ff8601fb0800000000000000
+      internalID: -4679124566863262292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_48
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1279
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b2320a55c5f6c30800000000000000
+      internalID: 4354800887519193934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_49
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1279
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb1e1ab5bb326d70800000000000000
+      internalID: 9034849454156291015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_50
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 1279
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe0af0f893e82280800000000000000
+      internalID: -9067747603693039883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_51
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 1279
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6b53ad2e953e4a0800000000000000
+      internalID: -6565305000917616908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_52
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 1279
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157b6f771e3a774e0800000000000000
+      internalID: -1983936922057787567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_53
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 1279
+        width: 521
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844bda9ce8cbd97b0800000000000000
+      internalID: -5215805471970184120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_54
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 639
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c08e52470b895f50800000000000000
+      internalID: 6870675569824923848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_55
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 639
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba66c9ced81c30670800000000000000
+      internalID: 8503853336709850795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_56
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 639
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b30e7d1295b5d320800000000000000
+      internalID: 2582169600531497913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_57
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 639
+        width: 522
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b5ae4456e88a2d0800000000000000
+      internalID: -3267204964058244222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_58
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 639
+        width: 342
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814f2263d35ec0d00800000000000000
+      internalID: 940378473277617176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_59
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 639
+        width: 521
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bce77792047fbd60800000000000000
+      internalID: 7908167025165855925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_60
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 342
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c49f8460d5dc020800000000000000
+      internalID: 2363647661014863002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_61
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 0
+        width: 522
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a51d8a7ee4cb3b0800000000000000
+      internalID: -5495430688422143372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_62
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 0
+        width: 342
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebce75f3d999e2490800000000000000
+      internalID: -7769103406515884866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_With_The_Drawbrigde_63
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 0
+        width: 522
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be251a88c41280220800000000000000
+      internalID: 2452246609696740075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Castle_With_The_Drawbrigde_0: 8333427623712866751
+      Castle_With_The_Drawbrigde_1: 6690846367660417808
+      Castle_With_The_Drawbrigde_10: -9076620471900256813
+      Castle_With_The_Drawbrigde_11: 3287825811002355254
+      Castle_With_The_Drawbrigde_12: -4480567243777205130
+      Castle_With_The_Drawbrigde_13: -4986226005227050133
+      Castle_With_The_Drawbrigde_14: 6222980711576788392
+      Castle_With_The_Drawbrigde_15: 2714825828084004546
+      Castle_With_The_Drawbrigde_16: 949359536801966176
+      Castle_With_The_Drawbrigde_17: 90429047769842424
+      Castle_With_The_Drawbrigde_18: -7458094537974003031
+      Castle_With_The_Drawbrigde_19: 795983252166115164
+      Castle_With_The_Drawbrigde_2: 5266787777489078118
+      Castle_With_The_Drawbrigde_20: 3869754275178765826
+      Castle_With_The_Drawbrigde_21: -3816339449057413278
+      Castle_With_The_Drawbrigde_22: 3444702510333333671
+      Castle_With_The_Drawbrigde_23: -77978892044736695
+      Castle_With_The_Drawbrigde_24: -7478053937865886888
+      Castle_With_The_Drawbrigde_25: 4994923858396508570
+      Castle_With_The_Drawbrigde_26: 3160077985127940702
+      Castle_With_The_Drawbrigde_27: 4488127057971068990
+      Castle_With_The_Drawbrigde_28: -3517055891538277570
+      Castle_With_The_Drawbrigde_29: -6613467923347589476
+      Castle_With_The_Drawbrigde_3: -2701834333829173678
+      Castle_With_The_Drawbrigde_30: -3396048193239388084
+      Castle_With_The_Drawbrigde_31: 3699856498895333356
+      Castle_With_The_Drawbrigde_32: 1972254297518089637
+      Castle_With_The_Drawbrigde_33: -6494996277853729900
+      Castle_With_The_Drawbrigde_34: 5448681478469200891
+      Castle_With_The_Drawbrigde_35: -5543932902211250979
+      Castle_With_The_Drawbrigde_36: -5721718926085821677
+      Castle_With_The_Drawbrigde_37: 6382698211836219184
+      Castle_With_The_Drawbrigde_38: -7384111587831492264
+      Castle_With_The_Drawbrigde_39: 8981851216841452420
+      Castle_With_The_Drawbrigde_4: 7824550309261470292
+      Castle_With_The_Drawbrigde_40: 2487718466741187711
+      Castle_With_The_Drawbrigde_41: 5211963878734831778
+      Castle_With_The_Drawbrigde_42: 5401573716758604495
+      Castle_With_The_Drawbrigde_43: -3991831719505477273
+      Castle_With_The_Drawbrigde_44: -7958106986106983221
+      Castle_With_The_Drawbrigde_45: 8170947155455636508
+      Castle_With_The_Drawbrigde_46: 7419292394716940159
+      Castle_With_The_Drawbrigde_47: -4679124566863262292
+      Castle_With_The_Drawbrigde_48: 4354800887519193934
+      Castle_With_The_Drawbrigde_49: 9034849454156291015
+      Castle_With_The_Drawbrigde_5: 4083983305609865306
+      Castle_With_The_Drawbrigde_50: -9067747603693039883
+      Castle_With_The_Drawbrigde_51: -6565305000917616908
+      Castle_With_The_Drawbrigde_52: -1983936922057787567
+      Castle_With_The_Drawbrigde_53: -5215805471970184120
+      Castle_With_The_Drawbrigde_54: 6870675569824923848
+      Castle_With_The_Drawbrigde_55: 8503853336709850795
+      Castle_With_The_Drawbrigde_56: 2582169600531497913
+      Castle_With_The_Drawbrigde_57: -3267204964058244222
+      Castle_With_The_Drawbrigde_58: 940378473277617176
+      Castle_With_The_Drawbrigde_59: 7908167025165855925
+      Castle_With_The_Drawbrigde_6: -2849091095376370720
+      Castle_With_The_Drawbrigde_60: 2363647661014863002
+      Castle_With_The_Drawbrigde_61: -5495430688422143372
+      Castle_With_The_Drawbrigde_62: -7769103406515884866
+      Castle_With_The_Drawbrigde_63: 2452246609696740075
+      Castle_With_The_Drawbrigde_7: -3545445690275833081
+      Castle_With_The_Drawbrigde_8: 6556874786368688236
+      Castle_With_The_Drawbrigde_9: -1570225225939137816
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
