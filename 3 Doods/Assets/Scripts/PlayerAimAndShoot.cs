@@ -67,6 +67,10 @@ public class PlayerAimAndShoot : MonoBehaviour
             levels[activeLevel - 1].SetActive(true);
             if (activeLevel == 2)
             {
+                if (aCount > 0)
+                {
+                    g1 = true;
+                }
                 aCount = 4;
                 eCount = 4;
                 for (int i = 0; i < aCount; i++)
@@ -75,14 +79,27 @@ public class PlayerAimAndShoot : MonoBehaviour
                 }
 
             }
-            else
+            else if (activeLevel == 3)
             {
+                if (aCount > 0)
+                {
+                    g2 = true;
+                }
                 aCount = 5;
                 eCount = 6;
                 for (int i = 0; i < aCount; i++)
                 {
                     arrows[i].SetActive(true);
                 }
+            }
+            else
+            {
+                if(aCount > 0 && g1 && g2)
+                {
+                    
+
+                }
+                
             }
         }
         else if (aCount == 0)
