@@ -859,6 +859,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 047c047f742281346831e4470d09b996, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  anim: {fileID: 317503556}
   lvl2: {fileID: 87321000}
   lvl3: {fileID: 1568949190}
 --- !u!1001 &353398562
@@ -2157,6 +2158,7 @@ MonoBehaviour:
   creditsYo: {fileID: 509521931}
   titleScreen: {fileID: 2110278681}
   levelSelectYo: {fileID: 317503553}
+  levelScript: {fileID: 317503557}
 --- !u!4 &1375879885
 Transform:
   m_ObjectHideFlags: 0

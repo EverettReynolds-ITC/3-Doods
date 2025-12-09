@@ -9,11 +9,13 @@ public class TITLESCREENPLAYBUTTON : MonoBehaviour
     public GameObject titleScreen;
 
     public GameObject levelSelectYo;
+    public levelScript levelScript;
     
     public void startGame()
     {
         titleScreen.SetActive(false);
         levelSelectYo.SetActive(true);
+        levelScript.checkLVLS();
     }
     public void credits()
     {

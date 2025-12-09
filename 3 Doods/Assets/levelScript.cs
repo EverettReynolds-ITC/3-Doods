@@ -5,11 +5,10 @@ public class levelScript : MonoBehaviour
 {
     private StreamReader streamReader;
     private string reader;
-    private Animator anim;
+    [SerializeField] private Animator anim;
     [SerializeField] private GameObject lvl2, lvl3;
-    public void Start()
+    public void checkLVLS()
     {
-        anim = GetComponent<Animator>();
         streamReader = File.OpenText("CompletedLevels.txt");
         while (!streamReader.EndOfStream)
         {
@@ -17,14 +16,14 @@ public class levelScript : MonoBehaviour
             switch (reader)
             {
                 case "lvl1G":
-                    anim.SetBool("lvl1G",true);
+                    anim.SetBool("lvl1G", true);
                     break;
                 case "lvl2":
                     anim.SetBool("lvl2", true);
                     lvl2.SetActive(true);
                     break;
                 case "lvl2G":
-                    anim.SetBool("lvl2G", true); 
+                    anim.SetBool("lvl2G", true);
                     break;
                 case "lvl3":
                     anim.SetBool("lvl3", true);
@@ -36,5 +35,6 @@ public class levelScript : MonoBehaviour
             }
 
         }
+        streamReader.Close();
     }
 }
