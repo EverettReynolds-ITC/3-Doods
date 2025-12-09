@@ -29,6 +29,7 @@ public class TITLESCREENPLAYBUTTON : MonoBehaviour
     }
     public void quit()
     {
+        File.WriteAllText("CompletedLevels.txt", "");
         Application.Quit();
     }
     public void level1()

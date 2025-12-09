@@ -8,6 +8,8 @@ TagManager:
   - Ground
   - hitbox
   - coin
+  - arrowSpawn
+  - Healthbar
   layers:
   - Default
   - TransparentFX

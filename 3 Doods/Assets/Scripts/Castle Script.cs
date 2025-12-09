@@ -5,9 +5,9 @@ using UnityEngine;
 public class CastleScript : MonoBehaviour
 {
     [SerializeField] private Animator anim;
-    private void TriggerEnter2D(Collision2D other)
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        if(other.gameObject.CompareTag("hitbox"))
+        if (other.gameObject.CompareTag("hitbox"))
         {
             anim.SetBool("hit", true);
         }

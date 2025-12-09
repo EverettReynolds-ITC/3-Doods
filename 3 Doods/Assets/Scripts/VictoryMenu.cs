@@ -26,8 +26,6 @@ public class VictoryTrigger : MonoBehaviour
         if (flapref.gold)
         {
             streamWriter = File.AppendText("CompletedLevels.txt");
-            streamWriter.WriteLine("lvl2");
-            streamWriter.WriteLine("lvl3");
             streamWriter.WriteLine("lvl3G");
             streamWriter.Close();
         }

@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 8770855464125095822}
   - component: {fileID: 4414258772136672764}
   - component: {fileID: 1219484679215895398}
-  - component: {fileID: 6961843227118733877}
   - component: {fileID: -5924561993608761191}
   m_Layer: 0
   m_Name: ARROW-1.png (1)_0
@@ -105,7 +104,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDamping: 0
-  m_AngularDamping: 0.05
+  m_AngularDamping: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -152,30 +151,18 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.16386077, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0, y: 0.5}
     oldSize: {x: 0.33, y: 0.1}
     newSize: {x: 0.33, y: 0.1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.33, y: 0.1}
+  m_Size: {x: 0.32369757, y: 0.1}
   m_EdgeRadius: 0
---- !u!114 &6961843227118733877
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2948494507336975390}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c41059b202e0db6459b8eeb06ec56df6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &-5924561993608761191
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -188,3 +175,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cd818c1dc1070d47ad64caa795346f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 0}
