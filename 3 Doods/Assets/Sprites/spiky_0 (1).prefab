@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3306929653487345115}
   - component: {fileID: 221919933165527254}
   - component: {fileID: 8678505314686443282}
+  - component: {fileID: 955758400147974114}
   m_Layer: 0
   m_Name: spiky_0 (1)
   m_TagString: Untagged
@@ -176,3 +177,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveF: 206
+--- !u!114 &955758400147974114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1424236341781619746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95f635974ef3c84439520bcbef9cccc6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
+using UnityEngine.Tilemaps;
 
 public class PlayerAimAndShoot : MonoBehaviour
 {
@@ -10,6 +12,8 @@ public class PlayerAimAndShoot : MonoBehaviour
     [SerializeField] private GameObject bullet;
     [SerializeField] private Transform bulletSpawnPoint;
     private GameObject bulletInst;
+
+    public GameObject DefeatUI;
     private Vector2 worldPosition;
     private Vector2 direction;
     private const int stoppery = -5;
@@ -23,6 +27,7 @@ public class PlayerAimAndShoot : MonoBehaviour
     private StreamWriter streamWriter;
     private void Start()
     {
+        Time.timeScale = 1f;
         arrows.Add(arrow1);
         arrows.Add(arrow2);
         arrows.Add(arrow3);
@@ -58,6 +63,10 @@ public class PlayerAimAndShoot : MonoBehaviour
     {
         arrows[Count - 1].SetActive(false);
         Count--;
+        if (aCount == 0)
+        {
+            Invoke("checkForWin", 7.5f);
+        }
     }
     public void checkForWin()
     {
@@ -102,7 +111,7 @@ public class PlayerAimAndShoot : MonoBehaviour
                 if(aCount > 0 && g1 && g2)
                 {
                     streamWriter = File.AppendText("CompletedLevels.txt");
-                    streamWriter.WriteLine("lvl3G");
+                    streamWriter.WriteLine("lvl2G");
                     streamWriter.Close();
 
                 }
@@ -111,12 +120,26 @@ public class PlayerAimAndShoot : MonoBehaviour
         }
         else if (aCount == 0)
         {
-            //lose function here
+            Time.timeScale = 0f;
+            DefeatUI.SetActive(true);
         }
     }
     public void enemyDepleter()
     {
         eCount--;
         checkForWin();
+    }
+
+    public void Restart()
+    {
+        Time.timeScale = 1f;
+        Scene currentScene = SceneManager.GetActiveScene();
+        SceneManager.LoadScene(currentScene.name);
+    }
+
+    public void MainMenu()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("Title Screen");
     }
 }

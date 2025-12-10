@@ -4,20 +4,19 @@ using UnityEngine.SceneManagement;
 
 public class birdnow : MonoBehaviour
 {
+    public Player health;
     public GameObject victoryUI;
     public string nextLevelName;
     private StreamWriter streamWriter;
     private bool activated = false;
-    private GameObject checker = null;
     private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.CompareTag("Player") && !activated)
         {
-            checker = GameObject.FindGameObjectWithTag("Enemy");
             activated = true;
             streamWriter = File.AppendText("CompletedLevels.txt");
             streamWriter.WriteLine("lvl2");
-            if (checker == null)
+            if (health.currentHealth == 100)
             {
                 streamWriter.WriteLine("lvl1G");
             }
